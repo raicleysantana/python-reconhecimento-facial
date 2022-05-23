@@ -1,0 +1,8 @@
+click==8.1.3
+colorama==0.4.4
+dlib @ file:///C:/Users/raicley_santana/PycharmProjects/inteligencia_artificial/venv/Scripts/dlib-19.22.99-cp38-cp38-win_amd64.whl
+face-recognition==1.3.0
+face-recognition-models==0.3.0
+numpy==1.22.4
+opencv-python==4.5.5.64
+Pillow==9.1.1
